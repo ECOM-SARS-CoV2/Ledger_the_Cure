@@ -1,0 +1,2 @@
+# Ledger_the_Cure
+分散的Covid情報統合蓄積連携システム
